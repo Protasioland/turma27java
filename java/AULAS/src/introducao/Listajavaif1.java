@@ -17,12 +17,12 @@ public class Listajavaif1 {
 		System.out.println("Digite um valor para n3: ");
 		n3=leia.nextInt();
 		
-		if (n1>n2 && n1>n3);{
-		System.out.println("O maior numero é o :"+n1);
-		}else if (n2>n3) {
-		System.out.println("O maior numero é o :"+n2);
-		}else {
-		System.out.println("O maior numero é :"+n3);
-		}
+		//if (n1>n2 && n1>n3);{
+		//System.out.println("O maior numero é o :"+n1);
+		//}else if (n2>n3) {
+		///System.out.println("O maior numero é o :"+n2);
+		//}else {
+		//System.out.println("O maior numero é :"+n3);
+		//}
 }
 }
