@@ -16,6 +16,7 @@ public class cadAviao {
 		aviao1.velocidade=0;
 		aviao1.ligado= false;
 		
-		
+		aviao1.aumentarVelocidade();
+		aviao1.decolar();
 	}
 }
