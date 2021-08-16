@@ -1,0 +1,5 @@
+package org.generation.farmacia.reository;
+
+public interface PostagemRepository {
+
+}

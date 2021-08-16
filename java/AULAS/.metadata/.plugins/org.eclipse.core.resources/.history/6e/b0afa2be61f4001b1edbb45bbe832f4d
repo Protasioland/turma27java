@@ -1,0 +1,5 @@
+package com.generation.LojaGames.model;
+
+public class CategoriaModel {
+
+}
